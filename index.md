@@ -1,4 +1,4 @@
-# A Collection of my work from my courses so far.
+# A Collection of Seth Adams work from my courses so far.
 
 
 ## Stuff from cs-ed-cohort-3-summer-2022
