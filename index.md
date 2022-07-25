@@ -12,5 +12,3 @@
 ## Stuff from sedc71900-summer-2022
 * [Here](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Mr-Adams/blob/master/methods/04_unplugged.md) is my unplugged plan
 
-### Other Future ideas
-* [Here ](https://github.com/Mr-Adams/nycscertweb/tree/main/ideas)
